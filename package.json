@@ -1,0 +1,8 @@
+{
+  "name": "com.mvvm",
+  "version": "1.0.0-exp.1",
+  "displayName": "MVVM",
+  "description": "MVVM binding",
+  "unity": "6000.3",
+  "documentationUrl": ""
+}

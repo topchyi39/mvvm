@@ -1,0 +1,30 @@
+{
+    "name": "Mvvm.UniTaskBinders",
+    "rootNamespace": "Mvvm",
+    "references": [
+        "R3.Unity",
+        "UniTask",
+        "Mvvm",
+        "Mvvm.Binders"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.r3",
+            "expression": "",
+            "define": "R3_ENABLED"
+        },
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "UNITASK_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

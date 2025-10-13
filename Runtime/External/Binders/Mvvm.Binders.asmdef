@@ -1,0 +1,23 @@
+{
+    "name": "Mvvm.Binders",
+    "rootNamespace": "Mvvm",
+    "references": [
+        "R3.Unity",
+        "Mvvm"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.r3",
+            "expression": "",
+            "define": "R3_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
