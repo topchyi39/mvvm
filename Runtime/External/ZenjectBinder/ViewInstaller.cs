@@ -13,7 +13,7 @@ namespace Mvvm.External.ZenjectBinder
             Container.BindInterfacesTo<ContainerResolver>().AsSingle();
             
             Container.Bind<InstanceBinder>().AsTransient();
-            Container.BindInterfacesTo<InjectedViewBinder>().AsTransient();
+            Container.BindInterfacesTo<InjectedViewBinder>().AsSingle();
         }
     }
 }
